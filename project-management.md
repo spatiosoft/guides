@@ -59,20 +59,32 @@ There are twelve principles:
 
 Since then, most of the methodologies that are used today are based on the Agile Manifesto.
 
+[Atlassian Agile Manifesto](https://www.atlassian.com/agile/manifesto)
+
 ### Scrum
 
 Scrum is a framework that implements the Agile Manifesto. It is the most popular Agile methodology today.
 The concept is to deliver value continually through cycles called sprints. Those sprints are usually two weeks long but may vary depending on the project. 
 
 Scrum describes three roles:
-- The Product Owner
-- The Scrum Master
-- The Development Team
+- The Product Owner, who is the bridge between the stakeholders and the development team.
+- The Scrum Master, who makes sure that the team follows the Scrum rules.
+- The Development Team, that is responsible for delivering the product.
+
+> [Scrum Guide](https://scrumguides.org/scrum-guide.html)
 
 ### Kanban
 
 ### Lean
 
 ### XP
+
+### SAFe
+
+[Atlassian SAFe](https://www.atlassian.com/agile/agile-at-scale/what-is-safe)
+
+### LeSS
+
+[Atlassian LeSS](https://www.atlassian.com/agile/agile-at-scale/less)
 
 ## Tools

@@ -40,3 +40,4 @@ This guide is suitable for beginners and for those who want to refresh their kno
 22. [Data Science](data-science.md)
 23. [Blockchain](blockchain.md)
 24. [Quantum Computing](quantum-computing.md)
+25. [Conclusion](conclusion.md)
