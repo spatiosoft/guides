@@ -38,6 +38,12 @@ With a load balancer, you can distribute the incoming traffic across multiple se
 
 ### Storage
 
+Storage offers spaces to store data. 
+Usually, you can store as many data as you want as the system will scale automatically.
+
+The storage is accessible from anywhere in the world and from all your components and microservices.
+This allows sharing data between different components.
+
 ### Database
 
 ### Access Management
