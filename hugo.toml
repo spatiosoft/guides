@@ -2,6 +2,7 @@ baseURL = 'https://guides.spatiosoft.com'
 languageCode = 'en-us'
 title = 'SPATIOSOFT guides'
 theme = 'hugo-theme-relearn'
+publishDir =  'docs'
 
 [module]
   [[module.imports]]
