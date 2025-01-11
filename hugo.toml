@@ -1,0 +1,8 @@
+baseURL = 'https://guides.spatiosoft.com'
+languageCode = 'en-us'
+title = 'SPATIOSOFT guides'
+theme = 'hugo-theme-relearn'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/McShelby/hugo-theme-relearn'
