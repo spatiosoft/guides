@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on SPATIOSOFT Guides</title>
+    <link>https://guides.spatiosoft.com/pages/</link>
+    <description>Recent content in Pages on SPATIOSOFT Guides</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jan 2025 07:52:24 +0100</lastBuildDate>
+    <atom:link href="https://guides.spatiosoft.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SPATIOSFOFT Guides</title>
+      <link>https://guides.spatiosoft.com/pages/guides/</link>
+      <pubDate>Fri, 17 Jan 2025 07:52:24 +0100</pubDate>
+      <guid>https://guides.spatiosoft.com/pages/guides/</guid>
+      <description>&lt;p&gt;Discover our guides right here.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-overview-of-software-development&#34;&gt;1. Overview Of Software Development&lt;/h2&gt;&#xA;&lt;p&gt;This guide covers the main topic of software development for beginners and people who want to refresh their knowledge&#xA;or explore new topics.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://guides.spatiosoft.com/overview-of-software-development&#34;&gt;Read the guide&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

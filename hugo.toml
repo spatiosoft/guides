@@ -1,9 +1,15 @@
-baseURL = 'https://guides.spatiosoft.com'
+baseURL = 'https://guides.spatiosoft.com/'
 languageCode = 'en-us'
-title = 'SPATIOSOFT guides'
-theme = 'hugo-theme-relearn'
+title = 'SPATIOSOFT Guides'
+theme = 'soho'
+mainSections = ["pages"]
 publishDir =  'docs'
 
-[module]
-  [[module.imports]]
-    path = 'github.com/McShelby/hugo-theme-relearn'
+[menu]
+
+    [[menu.main]]
+    name = "Overview Of Software Development"
+    weight = 100
+    identifier = "software-development"
+    url = "https://guides.spatiosoft.com/overview-of-software-development/"
+
