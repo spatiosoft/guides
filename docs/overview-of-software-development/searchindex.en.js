@@ -5,7 +5,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "History",
-    "uri": "/history/index.html"
+    "uri": "/overview-of-software-development/history/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -13,7 +13,7 @@ var relearn_searchindex = [
     "description": "The programming languages have never ceased to evolve and provide a great variety of styles, purposes and execution modes. They can be divided in categories as follow:\nProgramming languages Markup languages Query languages Command languages Programming Languages Programming languages can execute algorithms, procedure and functions. They can be classified by the execution mode, the paradigm, the coding style and the purpose. There are three execution modes: scripting, compiled and interpreted.",
     "tags": [],
     "title": "Language Overview",
-    "uri": "/language-overview/index.html"
+    "uri": "/overview-of-software-development/language-overview/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -21,7 +21,7 @@ var relearn_searchindex = [
     "description": "Variables Data Types Operators Expressions Conditions Loops Control Structures Functions Classes Objects Inheritance Polymorphism Encapsulation",
     "tags": [],
     "title": "Main Programming Concepts",
-    "uri": "/main-programming-concepts/index.html"
+    "uri": "/overview-of-software-development/main-programming-concepts/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -29,7 +29,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "AI And Machine Learning",
-    "uri": "/ai-and-machine-learning/index.html"
+    "uri": "/overview-of-software-development/ai-and-machine-learning/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -37,7 +37,7 @@ var relearn_searchindex = [
     "description": "Monolithic Architecture A monolithic architecture is an application built as one single structure containing all the components. It was very popular in the past and has become less popular with the rise of microservices architecture. The advantages:\nEasier to develop Easier to test Easier to deploy The disadvantages:\nHard to scale Hard to maintain Risk of conflicts between teams Microservice Architecture A microservice architecture is an application built as a collection of small services. Each service is responsible for a specific task. They communicate with each other through APIs.",
     "tags": [],
     "title": "Architecture",
-    "uri": "/architecture/index.html"
+    "uri": "/overview-of-software-development/architecture/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -45,7 +45,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Blockchain",
-    "uri": "/blockchain/index.html"
+    "uri": "/overview-of-software-development/blockchain/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -53,7 +53,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Categories",
-    "uri": "/categories/index.html"
+    "uri": "/overview-of-software-development/categories/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -61,7 +61,7 @@ var relearn_searchindex = [
     "description": "Cloud computing allows deploying, managing, and scaling applications without the need to manage the underlying infrastructure. It is a model for enabling on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services). These resources can be rapidly provisioned and released.\nInstead of managing physical servers in your own datacenters, you can rent the resources you need from a cloud provider.\nThe major cloud providers are:",
     "tags": [],
     "title": "Cloud Computing",
-    "uri": "/cloud-computing/index.html"
+    "uri": "/overview-of-software-development/cloud-computing/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -69,7 +69,7 @@ var relearn_searchindex = [
     "description": "In this section, we will cover the tools that are commonly used in the software development industry.\nVersion Control Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It allows you to revert files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more.",
     "tags": [],
     "title": "Common Tools",
-    "uri": "/common-tools/index.html"
+    "uri": "/overview-of-software-development/common-tools/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -77,7 +77,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Conclusion",
-    "uri": "/conclusion/index.html"
+    "uri": "/overview-of-software-development/conclusion/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -85,7 +85,7 @@ var relearn_searchindex = [
     "description": "In this section, we will discuss containers and container management.\nIn the software development industry, containers are used to package and run applications. Containers are lightweight, standalone, executable packages of software that include everything needed to run an application: code, runtime, system tools, system libraries, and settings.\nThey can be seen an operating system, usually Linux, that runs inside another operating system, the host system.\nA host system can run multiple containers, each with its own isolated environment. Containers are portable and can run on any system that supports the container runtime.",
     "tags": [],
     "title": "Container And Container Management",
-    "uri": "/container-and-container-management/index.html"
+    "uri": "/overview-of-software-development/container-and-container-management/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -93,7 +93,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Data Management",
-    "uri": "/data-management/index.html"
+    "uri": "/overview-of-software-development/data-management/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -101,7 +101,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Data Science",
-    "uri": "/data-science/index.html"
+    "uri": "/overview-of-software-development/data-science/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -109,7 +109,7 @@ var relearn_searchindex = [
     "description": "Frameworks are a set of tools and libraries that help you build web applications faster. They provide a structure for you to build on, and often come with a lot of built-in functionality that you would otherwise have to build yourself.\nFrameworks can be very opinionated, meaning they have a specific way of doing things that you have to follow. This can be a good thing because it can help you build applications faster, but it can also be a bad thing because it can limit your flexibility.",
     "tags": [],
     "title": "Frameworks",
-    "uri": "/frameworks/index.html"
+    "uri": "/overview-of-software-development/frameworks/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -117,7 +117,7 @@ var relearn_searchindex = [
     "description": "Low code and no code are two approaches to develop software without writing code or with minimal code. It allows non-developers to create applications and automate processes.\nWith the arising of AI and machine learning, low code and no code are becoming more and more popular. They allow companies to develop faster with limited skills in software development. People can speak their language to the AI and the AI will generate the application through the Low Code or No Code platform.",
     "tags": [],
     "title": "Low Code And No Code",
-    "uri": "/low-code-no-code/index.html"
+    "uri": "/overview-of-software-development/low-code-no-code/index.html"
   },
   {
     "breadcrumb": "",
@@ -125,7 +125,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Overview Of Software Development | SPATIOSOFT",
-    "uri": "/index.html"
+    "uri": "/overview-of-software-development/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -133,7 +133,7 @@ var relearn_searchindex = [
     "description": "Project management is the key element to deliver a project on time and on budget. It implies all the stakeholders to work together to achieve the same goal.\nThis is probably the topic that will bring the most debate and discussion on the table. It will most likely be responsible for many meetings where a few people will talk and the rest will be on their phone or laptop.\nAgile In 2001, seventeen independent-minded software practitioners came together to discuss about best practices to deliver software. They wrote the Agile Manifesto, which remains today the reference for software development. There are twelve principles:",
     "tags": [],
     "title": "Project Management",
-    "uri": "/project-management/index.html"
+    "uri": "/overview-of-software-development/project-management/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -141,7 +141,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tags",
-    "uri": "/tags/index.html"
+    "uri": "/overview-of-software-development/tags/index.html"
   },
   {
     "breadcrumb": "Overview Of Software Development | SPATIOSOFT",
@@ -149,6 +149,6 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "UX and UI",
-    "uri": "/ux-and-ui/index.html"
+    "uri": "/overview-of-software-development/ux-and-ui/index.html"
   }
 ]
