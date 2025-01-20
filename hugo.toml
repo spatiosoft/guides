@@ -5,6 +5,12 @@ theme = 'soho'
 mainSections = ["pages"]
 publishDir =  'docs'
 
+[params]
+    author = "SPATIOSOFT"
+    description = "List of guides edited by SPATIOSOFT"
+    copyright = "SPATIOSOFT"
+    profilePicture = "logo500.png"
+
 [menu]
 
     [[menu.main]]
